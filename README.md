@@ -22,15 +22,15 @@ Utilizamos a nuvem para garantir flexibilidade, escalabilidade e economia em dif
 | Tipo de Nuvem   | Pontos Positivos                                                                | Pontos Negativos                                                                   |
 |-----------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------- |
 | **Pública** (Cloud ou IaaS)    |  Custo mais baixo (paga pelo uso)                                              |  Menor controle sobre a infraestrutura                                            |
-|  |  Alta escalabilidade                                                           | - Preocupações com segurança e conformidade                                        |
+|  |  Alta escalabilidade                                                           |  Preocupações com segurança e conformidade                                        |
 |                 |  Fácil de acessar e implementar                                                |  Performance pode variar                                                          |
 |                 | Manutenção a cargo do provedor                                                |  Dependência do provedor (lock-in tecnológico)                                    |
 | **Privada**  (On-Premise)   |  Maior controle e personalização                                               | Alto custo de implementação e manutenção                                         |
-|   | Ideal para aplicações sensíveis                                               | - Menor agilidade para mudanças                                                    |
+|   | Ideal para aplicações sensíveis                                               |  Menor agilidade para mudanças                                                    |
 |                 |  Mais segurança e conformidade                                                 |  Escalabilidade limitada                                                          |
 |                 |  Performance dedicada e estável                                                |  Requer equipe técnica especializada                                              |
 | **Híbrida (Hybrid)**     |  Flexibilidade para alocar recursos                                            |  Implementação e gerenciamento complexos                                          |
-|        |  Combina segurança da privada com escalabilidade da pública                    | - Desafios de compatibilidade entre ambientes                                      |
+|        |  Combina segurança da privada com escalabilidade da pública                    |  Desafios de compatibilidade entre ambientes                                      |
 |                 |  Maior controle estratégico                                                    |  Necessita governança e integração eficientes                                     |
 |                 | Otimização de custos e desempenho                                             |                                                                                    |
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
