@@ -42,9 +42,9 @@ Utilizamos a nuvem para garantir flexibilidade, escalabilidade e economia em dif
 | Conceito           | Descrição                                                                   |
 |--------------------|-----------------------------------------------------------------------------|
 | **Região**         | Área geográfica ampla (ex: us-east-1, southamerica-east1).                |
-|                                                                                                |
 |                    | Contém múltiplas zonas de disponibilidade.                                |
 |                    | Usada para escolher onde os dados e serviços são hospedados.              |
+||
 | **Zona (Zone)**    |  Data center individual dentro de uma região.                              |
 |                    |  Isolada fisicamente, mas conectada com outras zonas da mesma região.      |
 |                    |  Permite distribuir serviços para alta disponibilidade e resiliência.      |
