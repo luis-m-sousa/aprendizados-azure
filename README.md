@@ -25,6 +25,7 @@ Utilizamos a nuvem para garantir flexibilidade, escalabilidade e economia em dif
 |  |  Alta escalabilidade                                                           |  Preocupações com segurança e conformidade                                        |
 |                 |  Fácil de acessar e implementar                                                |  Performance pode variar                                                          |
 |                 | Manutenção a cargo do provedor                                                |  Dependência do provedor (lock-in tecnológico)                                    |
+|                                                                                                                                                                                        |
 | **Privada**  (On-Premise)   |  Maior controle e personalização                                               | Alto custo de implementação e manutenção                                         |
 |   | Ideal para aplicações sensíveis                                               |  Menor agilidade para mudanças                                                    |
 |                 |  Mais segurança e conformidade                                                 |  Escalabilidade limitada                                                          |
