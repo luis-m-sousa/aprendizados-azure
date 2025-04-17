@@ -1,4 +1,4 @@
-# aprendizados-azure -> Repositório criado para compartilhar conhecimentos adquiridos no bootcamp da XP
+# aprendizados-azure -> Repositório criado para compartilhar conhecimentos adquiridos quanto ao sistema de Nuvens no bootcamp.
 
 # O que é nuvem?
 Assim como no curso, onde o Felipe Aguiar utilizou uma analogia à máquinas de lavar roupas, aqui vai uma analogia feita por mim ->
