@@ -37,6 +37,26 @@ Utilizamos a nuvem para garantir flexibilidade, escalabilidade e economia em dif
 |                 | Otimização de custos e desempenho                                             |                                                                                    |
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Exemplos de Utilização dos três tipos de Nuvem no dia a dia
+
+| Tipo de Nuvem   | Quando Utilizar                                                                 | Exemplos Práticos                                                                 |
+|-----------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| **Pública**     | - Projetos com orçamento limitado.                                              | - Startups lançando um aplicativo com recursos limitados.                         |
+|                 | - Necessidade de escalabilidade rápida.                                         | - Empresas utilizando serviços como Google Drive ou Microsoft 365.                |
+|                 | - Cargas de trabalho variáveis ou imprevisíveis.                                | - Hospedagem de sites institucionais ou blogs.                                    |
+|                 | - Desenvolvimento e testes de aplicações.                                       | - Desenvolvimento de aplicativos em ambientes como Azure ou AWS.                  |
+||
+| **Privada**     | - Requisitos rigorosos de segurança e conformidade.                             | - Instituições financeiras gerenciando dados sensíveis de clientes.               |
+|                 | - Necessidade de controle total sobre a infraestrutura.                         | - Hospitais armazenando registros médicos eletrônicos.                            |
+|                 | - Aplicações críticas que não podem tolerar falhas.                             | - Empresas do setor governamental com dados confidenciais.                        |
+|                 | - Personalização específica de hardware e software.                             | - Organizações com sistemas legados integrados à nuvem.                           |
+||
+| **Híbrida**     | - Combinação de requisitos de segurança e escalabilidade.                       | - Empresas que armazenam dados sensíveis localmente e utilizam a nuvem pública para aplicações menos críticas. |
+|                 | - Necessidade de mover cargas de trabalho entre ambientes.                      | - Portais governamentais que oferecem serviços públicos online, mantendo dados internos protegidos. |
+|                 | - Otimização de custos mantendo desempenho.                                     | - Corporações que utilizam nuvem privada para dados confidenciais e pública para serviços ao cliente. |
+|                 | - Flexibilidade para responder a demandas variáveis.                            | - Empresas que enfrentam picos sazonais de demanda, como varejistas durante feriados. |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Zonas e Regiões em conceitos de Nuvem
 
 | Conceito           | Descrição                                                                   |
