@@ -1,4 +1,5 @@
 # aprendizados-azure -> Repositório criado para compartilhar conhecimentos adquiridos quanto ao sistema de Nuvens no bootcamp.
+Observação – As informações apresentadas neste README são fundamentadas em experiências prévias, conteúdos abordados durante o bootcamp e pesquisas complementares realizadas externamente.
 
 # O que é nuvem?
 Assim como no curso, onde o Felipe Aguiar utilizou uma analogia à máquinas de lavar roupas, aqui vai uma analogia feita por mim ->
@@ -14,7 +15,7 @@ Utilizamos a nuvem para garantir flexibilidade, escalabilidade e economia em dif
 
 # Nuvem pública -> 
   É gerenciada por provedores terceirizados e serve múltiplos clientes, como a Azure ou a AWS; 
-# Nuvem Privada -> 
+# Nuvem privada -> 
   É usada por uma única organização e hospedada internamente ou por terceiros; 
 # Nuvem híbrida -> 
   Combina as duas, permitindo maior controle e ao mesmo tempo escalabilidade e agilidade.
