@@ -30,6 +30,7 @@ Utilizamos a nuvem para garantir flexibilidade, escalabilidade e economia em dif
 |   | Ideal para aplicações sensíveis                                               |  Menor agilidade para mudanças                                                    |
 |                 |  Mais segurança e conformidade                                                 |  Escalabilidade limitada                                                          |
 |                 |  Performance dedicada e estável                                                |  Requer equipe técnica especializada                                              |
+|                                                                                                                                                                                      |
 | **Híbrida (Hybrid)**     |  Flexibilidade para alocar recursos                                            |  Implementação e gerenciamento complexos                                          |
 |        |  Combina segurança da privada com escalabilidade da pública                    |  Desafios de compatibilidade entre ambientes                                      |
 |                 |  Maior controle estratégico                                                    |  Necessita governança e integração eficientes                                     |
@@ -41,6 +42,7 @@ Utilizamos a nuvem para garantir flexibilidade, escalabilidade e economia em dif
 | Conceito           | Descrição                                                                   |
 |--------------------|-----------------------------------------------------------------------------|
 | **Região**         | Área geográfica ampla (ex: us-east-1, southamerica-east1).                |
+|                                                                                                |
 |                    | Contém múltiplas zonas de disponibilidade.                                |
 |                    | Usada para escolher onde os dados e serviços são hospedados.              |
 | **Zona (Zone)**    |  Data center individual dentro de uma região.                              |
@@ -53,17 +55,23 @@ Utilizamos a nuvem para garantir flexibilidade, escalabilidade e economia em dif
 | Benefício da Nuvem   | Vantagens                                                                                          | Observações                                                                |
 |----------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | **Escalabilidade**   |  Ajuste de recursos conforme a demanda.                                                           |  Pode ser horizontal (mais instâncias) ou vertical (mais potência).       |
-|                      |  Suporte ao crescimento do negócio sem reestruturação da infraestrutura.                          |  Evita superdimensionamento e desperdício de recursos.                    |                         
+|                      |  Suporte ao crescimento do negócio sem reestruturação da infraestrutura.                          |  Evita superdimensionamento e desperdício de recursos.                    |   
+|                                                                                                                                                                                                       |
 | **Elasticidade**     |  Alocação e desalocação automática de recursos conforme a carga de trabalho.                      |  Garante eficiência operacional e economia de custos.                     |                         
 |                      |  Resposta rápida a variações inesperadas na demanda.                                              | Ideal para aplicações com cargas de trabalho variáveis.                  |                         
+|                                                                                                                                                                                                      |
 | **Confiabilidade**   |  Alta disponibilidade dos serviços, mesmo em caso de falhas.                                      |  Redundância e failover integrados garantem continuidade dos serviços.    |                         
 |                      |  Menor tempo de inatividade e maior confiança nos sistemas.                                       |  Crucial para aplicações críticas que exigem disponibilidade constante.   |
-| **Previsibilidade**  |  Desempenho consistente e estável dos serviços.                                                   |  Facilita o planejamento de capacidade e orçamento.                       |                         
+|                      |
+| **Previsibilidade**  |  Desempenho consistente e estável dos serviços.                                                   |  Facilita o planejamento de capacidade e orçamento.                       |
 |                      |  Custos operacionais mais controlados e previsíveis.                                              | Auxilia na tomada de decisões estratégicas e financeiras.                |
-| **Segurança**        |  Proteção avançada contra ameaças cibernéticas.                                                   |  Inclui criptografia, firewalls e monitoramento contínuo.                 |                         
+|                      |
+| **Segurança**        |  Proteção avançada contra ameaças cibernéticas.                                                   |  Inclui criptografia, firewalls e monitoramento contínuo.                 |
 |                      |  Conformidade com padrões e regulamentações de segurança.                                         |  Responsabilidade compartilhada entre provedor e cliente.                 |
+|                      |
 | **Governança**       |  Definição e aplicação de políticas de uso e acesso aos recursos.                                 |  Garante conformidade com normas internas e externas.                     |                        
 |                      |  Monitoramento e auditoria contínuos para manter a integridade dos sistemas.                      |  Facilita a identificação e correção de desvios operacionais.             |
+| |
 | **Gerenciabilidade** |  Ferramentas integradas para gerenciamento eficiente dos recursos.                                | Automatização de tarefas administrativas e operacionais.                 |                         
 |                      |  Visibilidade centralizada das operações e desempenho dos serviços.                               |  Suporte à tomada de decisões informadas e estratégicas.                  |                         
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
