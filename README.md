@@ -97,5 +97,5 @@ Utilizamos a nuvem para garantir flexibilidade, escalabilidade e economia em dif
 |                      |  Visibilidade centralizada das operações e desempenho dos serviços.                               |  Suporte à tomada de decisões informadas e estratégicas.                  |                         
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+-- Autoria -> Luis Miguel - 2025
 
